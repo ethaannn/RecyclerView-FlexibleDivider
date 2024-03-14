@@ -18,7 +18,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.ethaannn：RecyclerView-FlexibleDivider：1.4.1'
+    implementation 'com.github.ethaannn:RecyclerView-FlexibleDivider:1.4.1'
 }
 ```
 
